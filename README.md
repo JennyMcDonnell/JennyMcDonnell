@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jenny, Jen, or Jennifer!
-- 👀 I’m interested in game development, web development, and all things programming!
-- 🌱 I’m currently learning Computer Org/Architecture and the Unreal game engine
+- 👋 Hi, I’m Jenny or Jennifer!
+- 👀 I’m interested in Software Development, and all things programming!
+- 🌱 I’m currently learning Computer Algorithms and SQL
 - 💞️ I’m looking to collaborate on beginner friendly projects written in java, C++, or python
 - 📫 How to reach me: you can send me a DM on discord! Jen the Destroyer#2727
 
