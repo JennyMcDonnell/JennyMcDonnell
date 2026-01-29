@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Jenny or Jennifer!
+## 👋 Hi, I’m Jenny!
 - 👀 I’m interested in Software Development, and all things programming!
 - 🌱 I’m currently learning Computer Algorithms, Java collections and SQL
 - 💞️ I’m looking to collaborate on beginner friendly projects written in java, C++, or python
