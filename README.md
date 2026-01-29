@@ -1,12 +1,11 @@
 ## 👋 Hi, I’m Jenny!
 - 👀 I’m interested in Software Development, and all things programming!
-- 🌱 I’m currently learning Computer Algorithms, Java collections and SQL
+- 🌱 I’m currently learning AI concepts, cryptography, and linear algebra
 - 💞️ I’m looking to collaborate on beginner friendly projects written in java, C++, or python
 - 📫 How to reach me: email me, jmcdonnell00@gmail.com
 
 
 #### Languages
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![mySQL](https://img.shields.io/badge/mySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
