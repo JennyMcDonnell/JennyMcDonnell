@@ -1,7 +1,8 @@
 # Hi, I’m Jenny!
-- 👀 Looking for Software Engineering roles for new grads
+- 🌟 CS Student, Tutor, and TA
+- 👀 Looking for Software Engineering roles for new grads beginning May 2026
 - 🌱 I’m currently learning AI concepts, cryptography, and linear algebra
-- 💞️ I’m looking to collaborate on beginner friendly projects written in java, C++, or python
+- 💞️ I’m looking to collaborate on beginner friendly projects written in Java, C++, or Python
 - 📫 How to reach me: email me, jmcdonnell00@gmail.com
 
 ## Github Stats
